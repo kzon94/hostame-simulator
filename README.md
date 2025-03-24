@@ -96,4 +96,3 @@ El archivo `hosts.csv` contiene las siguientes columnas:
 - Se emplean probabilidades para simular una distribución realista.
 - Variables globales utilizadas: `df`, `dataset`, `counter_dict`.
 - Proyecto útil para prácticas de manipulación de datos, generación aleatoria y visualización con Python.
-```
