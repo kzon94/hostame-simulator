@@ -1,6 +1,6 @@
 # 🔎 Hostname Generator & Analysis Tool
 
-![Logo de hostname](media/hostname.jpg)
+![Logo de hostname](/hostname.jpg)
 
 Este proyecto genera un conjunto ficticio de *hostnames* para servidores, simula sus atributos (sistema operativo, entorno, país), y crea visualizaciones estadísticas sobre su distribución.
 
